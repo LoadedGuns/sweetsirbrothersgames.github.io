@@ -1,5 +1,5 @@
-<center># sweetsirbrothersgames.github.io
-
+# sweetsirbrothersgames.github.io
+<center>
 <h3>About Sweetsir Brother Games</h3>
 <p>Sweetsir Brothers Games is a dynamic and innovative game development studio founded by brothers Chris and James Sweetsir on July 14, 2023. With a shared passion for gaming and a vision to create immersive and captivating experiences, the Sweetsir brothers embarked on a journey to bring their creative ideas to life.
 
@@ -11,4 +11,5 @@ Our development philosophy revolves around a commitment to innovation, excellenc
 
 As a player-centric studio, we value the feedback and involvement of our community. We believe in building strong relationships with our players, listening to their voices, and continually improving our games based on their valuable input. We aim to create a supportive and inclusive environment where players feel connected, engaged, and excited to be a part of the Sweetsir Brothers Games community.
 
-Join us on this incredible journey as we continue to create unique and immersive gaming experiences that captivate and inspire. Whether you are an avid gamer, a passionate storyteller, or simply someone who loves to be transported to new worlds, Sweetsir Brothers Games welcomes you to explore the magic of our creations.</p></center>
+Join us on this incredible journey as we continue to create unique and immersive gaming experiences that captivate and inspire. Whether you are an avid gamer, a passionate storyteller, or simply someone who loves to be transported to new worlds, Sweetsir Brothers Games welcomes you to explore the magic of our creations.</p>\
+</center>
