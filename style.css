@@ -1,0 +1,62 @@
+html,
+body {
+  background: url(header.jpg) no-repeat center center fixed; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+h1 {
+  font-size: 3rem; 
+  color: #e2dbdb;
+}
+
+h1 :hover {
+  background-color: #1428df;
+  transition: 1s;
+}
+
+/* hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44;
+  width: 100%;
+  margin-left:47%;
+} (Removed for now) */
+
+.buffer {
+  height: 15rem;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  flex: auto;
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+  --bs-btn-hover-bg: #1428df;
+  --bs-btn-hover-border-color: #1428df;
+}
+
+.btn-primary:hover {
+  background-color: #1428df;
+  border-color: #1428df;
+  border-width: 4px;
+  cursor: pointer;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.text-center col-12 {
+  flex: auto;
+  align-items: center;
+  flex-wrap: wrap;
+}
